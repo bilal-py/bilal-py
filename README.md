@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal504&label=Profile%20views&color=0e75b6&style=flat" alt="bilal504" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal504" alt="bilal504" /></a> </p>
 
 - ⚡ Fun fact **Known for my funny comments (in the code)**
 
