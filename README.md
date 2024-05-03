@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal504&label=Profile%20views&color=0e75b6&style=flat" alt="bilal504" /> </p>
 
 
-- ⚡ Fun fact **Known for my funny comments (in the code)**
+- ⚡ Fun fact:  **Known for my funny comments (in the code)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
