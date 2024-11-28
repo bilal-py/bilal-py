@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Bilal</h1>
-<h3 align="center">I'm a Software Engineer from India</h3>
+<h3 align="center">I'm a Software Engineer </h3>
 
 - ⚡ Fun fact:  **Known for my funny comments (in the code)**
 
